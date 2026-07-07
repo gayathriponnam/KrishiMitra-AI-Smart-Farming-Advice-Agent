@@ -1,0 +1,103 @@
+IRRIGATION & WATER MANAGEMENT GUIDE
+Source: ICAR-IARI, NWPCA, Ministry of Jal Shakti
+Last Updated: 2024
+
+=== CROP WATER REQUIREMENTS (mm/season) ===
+Rice (lowland):       1200 - 1400 mm
+Rice (upland):        800 - 1000 mm
+Wheat:                450 - 650 mm
+Cotton:               600 - 750 mm  
+Sugarcane:            1500 - 2500 mm
+Maize:                500 - 600 mm
+Soybean:              450 - 550 mm
+Chickpea:             250 - 350 mm
+Mustard:              300 - 400 mm
+Groundnut:            500 - 600 mm
+Sunflower:            500 - 600 mm
+Tomato:               400 - 600 mm
+Potato:               500 - 700 mm
+
+=== IRRIGATION METHODS ===
+
+1. FLOOD/FURROW IRRIGATION
+   - Efficiency: 40-50% (very low water use efficiency)
+   - Suitable for: Rice, sugarcane, heavy soils
+   - Issues: Waterlogging, salt accumulation, weed growth
+
+2. SPRINKLER IRRIGATION
+   - Efficiency: 70-80%
+   - Suitable for: Wheat, vegetables, groundnut, pulses, uneven terrain
+   - Avoid: Fungus-prone crops during humid weather (disease promotion)
+   - Cost: Rs. 20,000-60,000/acre (subsidy available under PMKSY)
+
+3. DRIP IRRIGATION
+   - Efficiency: 90-95% (highest water use efficiency)
+   - Suitable for: Vegetables, fruits, cotton, sugarcane, chilli, onion
+   - Saves: 30-50% water compared to flood irrigation
+   - Fertilizer: Fertigation (applying fertilizer through drip) saves 20-30% fertilizer
+   - Government: 55-85% subsidy under PMKSY (varies by state and farmer category)
+   - Drip laterals: 16mm lateral with 4L/hr drippers at 30cm x 60cm spacing (vegetables)
+
+=== IRRIGATION SCHEDULING ===
+
+CRITICAL GROWTH STAGES (Do NOT miss irrigation):
+- Rice: Transplanting, active tillering, panicle initiation, heading, grain filling
+- Wheat: CRI (Crown Root Initiation), tillering, jointing, flowering, grain fill
+- Cotton: Flowering, boll development (most critical)
+- Maize: Knee height, tasseling, silking (most critical), grain fill
+- Chickpea: Pre-flowering, pod filling (if rainfall inadequate)
+
+SOIL MOISTURE MONITORING:
+- Feel method: Squeeze soil; fine sandy loam is ready for irrigation when it barely
+  holds shape and drops at waist height
+- Tensiometer: Irrigate when reading exceeds 40-50 cbar (sandy) or 60-70 cbar (clay)
+- IW/CPE ratio method: Irrigate when IW/CPE ratio reaches 0.8 (for most crops)
+
+=== WATER-SAVING TECHNIQUES ===
+
+1. ALTERNATE WETTING AND DRYING (AWD) for Rice:
+   - Allow field to dry 15-20cm below surface before re-flooding
+   - Saves 15-30% water with no yield loss
+   - Insert a perforated pipe (30cm deep) to monitor water table
+
+2. SYSTEM OF RICE INTENSIFICATION (SRI):
+   - Single seedling per hill (vs. 3-4 in conventional)
+   - Wider spacing: 25x25 cm
+   - Intermittent irrigation (not continuous flooding)
+   - Saves 25-50% water; yields increase 20-50%
+
+3. ZERO TILLAGE (No-till/Conservation Agriculture):
+   - Reduces soil evaporation
+   - Conserves 15-20% moisture through residue retention
+
+4. MULCHING:
+   - Plastic mulch: 25-50 micron silver/black film reduces evaporation 60-70%
+   - Organic mulch (straw, dry leaves): 10cm layer reduces soil temperature and moisture loss
+
+5. LASER LAND LEVELING:
+   - Saves 25-30% irrigation water through even distribution
+   - Increases irrigation efficiency significantly
+
+=== WATER QUALITY PARAMETERS ===
+Good irrigation water should have:
+  - pH: 6.5 - 8.5
+  - EC: < 1.5 dS/m (marginal: 1.5-3.0; use tolerant crops above 3.0)
+  - SAR (Sodium Adsorption Ratio): < 10 (above 18 is problematic)
+  - Chloride: < 4 meq/L
+  - Boron: < 1.0 mg/L
+
+=== RAINWATER HARVESTING ===
+Farm Pond:
+  - Size: 0.04 ha (40m x 10m x 3m depth) serves 1 acre irrigation
+  - Use: Life-saving irrigation during dry spells; 1-2 extra irrigations
+  - Government: Mahatma Gandhi NREGA provides funding for farm ponds
+
+Check Dams & Percolation Ponds:
+  - Community-level water harvesting
+  - Recharges groundwater; available for well/borewell irrigation
+
+=== GOVERNMENT IRRIGATION SCHEMES ===
+1. PMKSY (Pradhan Mantri Krishi Sinchayee Yojana): Drip/sprinkler subsidy
+2. Har Khet Ko Pani: Expand irrigation coverage to unirrigated areas
+3. Jal Jeevan Mission: Groundwater conservation
+4. NABARD RIDF: Irrigation infrastructure financing for states

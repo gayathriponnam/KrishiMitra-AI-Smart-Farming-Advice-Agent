@@ -1,0 +1,130 @@
+PEST & DISEASE MANAGEMENT GUIDE — INTEGRATED PEST MANAGEMENT (IPM)
+Source: NIPHM, ICAR, Central Institute for Cotton Research (CICR)
+Last Updated: 2024
+
+=== IPM PRINCIPLES (WHO/FAO Approach) ===
+IPM Hierarchy (prefer in this order):
+1. PREVENTIVE: Resistant varieties, crop rotation, field sanitation
+2. CULTURAL: Deep plowing, summer tillage, border crops, trap crops
+3. MECHANICAL: Sticky traps, pheromone traps, light traps, hand picking
+4. BIOLOGICAL: Natural enemies, Bt, NPV, Trichoderma, Pseudomonas
+5. CHEMICAL: Use only when economic threshold level (ETL) is crossed
+
+Economic Threshold Levels (ETL) — when to spray:
+  - Cotton Bollworm: 5% bolls damaged or 1 egg/plant
+  - Rice BPH: 10-15 hoppers/hill (after crop establishment)
+  - Wheat Aphid: 25 aphids/plant
+  - Gram Pod Borer: 1-2 larvae/plant or 10% damaged pods
+
+=== MAJOR CROP DISEASES ===
+
+RICE DISEASES:
+1. Blast (Pyricularia oryzae)
+   - Symptoms: Diamond-shaped lesions with gray center on leaves; neck rot causes "rotten neck"
+   - Conditions: Cool temperature (25°C), high humidity, excess N application
+   - Management:
+     * Resistant varieties: Pusa Basmati 1509, Improved Samba Mahsuri, IR 64
+     * Seed treatment: Carbendazim 50 WP @ 2g/kg OR Tricyclazole 75 WP @ 1g/kg
+     * Foliar spray: Tricyclazole 75 WP @ 300g/ha or Isoprothiolane 40 EC @ 1500ml/ha
+     * Do NOT apply excess nitrogen; maintain optimum plant spacing
+
+2. Brown Plant Hopper (BPH) — Nilaparvata lugens
+   - Symptoms: Circular burned patches (hopper burn); plants turn yellow and die
+   - Management:
+     * ETL: 10-15 hoppers/hill
+     * Drain water from field to dry for 3-4 days
+     * Spray: Buprofezin 25 SC @ 1000ml/ha or Imidacloprid 17.8 SL @ 250ml/ha
+     * Avoid broad-spectrum insecticides that kill natural enemies
+     * Resistant varieties: Ptb33, IR36, IR72
+
+3. Bacterial Leaf Blight (Xanthomonas oryzae)
+   - Symptoms: Water-soaked lesions on leaf margins; yellow-orange streaks; kresek in seedlings
+   - Management:
+     * No effective chemical — use resistant varieties (IR 20, IR 36, Pusa 44)
+     * Do NOT apply excess N; avoid deep water submergence
+     * Copper-based sprays (Copper Oxychloride @ 3g/L) for mild protection
+     * Drain water, improve drainage, roguing infected plants
+
+COTTON DISEASES:
+1. Cotton Leaf Curl Virus (CLCuV) — Whitefly transmitted
+   - Symptoms: Upward/downward curling, enation on underside of leaves, vein thickening
+   - Management:
+     * Use CLCuV-resistant varieties (all Bt hybrids may still get infected)
+     * Control whitefly vector: Neem oil 1500 ppm @ 5ml/L, Pyriproxyfen
+     * Yellow sticky traps @ 10 traps/acre
+     * Roguing and destruction of infected plants
+
+2. Root Rot (Fusarium oxysporum, Macrophomina phaseolina)
+   - Symptoms: Sudden wilting, dark discoloration of root and stem base
+   - Management:
+     * Avoid waterlogging; deep summer plowing to destroy sclerotia
+     * Seed treatment: Trichoderma viride @ 4g/kg + Carbendazim 2g/kg
+     * Soil application: Trichoderma @ 2.5 kg/ha mixed with FYM
+
+WHEAT DISEASES:
+1. Yellow/Stripe Rust (Puccinia striiformis)
+   - Symptoms: Yellow pustules in stripes along veins on leaves
+   - Conditions: Cool temperature (10-15°C), high humidity, dew
+   - Varieties resistant: HD 2967, K 9107, PBW 343
+   - Spray: Propiconazole 25 EC @ 500ml/ha at first symptom appearance
+   
+2. Loose Smut (Ustilago tritici)
+   - Symptoms: Entire ear head replaced by black smut mass
+   - Prevention: Hot Water Treatment of seed (54°C for 10 min); Carbendazim seed treatment
+
+=== MAJOR INSECT PESTS ===
+
+FALL ARMYWORM (Spodoptera frugiperda) — Maize, Sorghum
+   - ID: "C"-shaped caterpillar; inverted "Y" on head; 4 spots in square on 8th abdominal segment
+   - Management:
+     * Scout for egg masses; spray NSKE 5% immediately
+     * ETL: 10% plants with damage; spray emamectin benzoate 5 SG @ 220g/ha into whorl
+     * Spinetoram 11.7% SC @ 450ml/ha (highly effective)
+     * Pheromone traps for monitoring (1 trap/5 acres)
+
+WHITEFLY (Bemisia tabaci) — Cotton, Vegetables, Legumes
+   - ID: Tiny white-winged insect on leaf undersides; honeydew leading to sooty mold
+   - Management:
+     * Yellow sticky traps (30/acre); remove lower leaves with high infestation
+     * Neem-based products: Azadirachtin 0.03 EC @ 5ml/L
+     * Flonicamid 50 WG @ 60g/ha; Spiromesifen 22.9 SC @ 750ml/ha
+
+APHIDS — Multiple crops
+   - ID: Soft-bodied insects in colonies on new growth; waxy and woolly types
+   - Natural enemies: Ladybird beetles, lacewings, syrphid flies — conserve these!
+   - Chemical (if ETL crossed): Dimethoate 30 EC @ 1L/ha OR Thiamethoxam 25 WG @ 100g/ha
+   - Organic: Neem oil spray 3ml/L, soap solution (5g/L)
+
+THRIPS (Thrips tabaci, Frankliniella) — Onion, Chilli, Cucumber
+   - ID: Tiny insects causing silver streaks, distorted leaves; feed by rasping
+   - Management:
+     * Blue sticky traps; overhead irrigation reduces populations
+     * Fipronil 5 SC @ 1500ml/ha OR Spinosad 45 SC @ 125ml/ha
+     * Systemic: Thiamethoxam 25 WG @ 100g/ha
+
+=== BIOLOGICAL CONTROL AGENTS ===
+Trichoderma viride / T. harzianum:
+  - Controls: Root rot, damping off, wilt (Fusarium, Pythium, Rhizoctonia)
+  - Application: Seed treatment 4g/kg + soil application 2.5 kg/ha mixed with FYM
+
+Pseudomonas fluorescens:
+  - Controls: Bacterial and fungal pathogens (induces systemic resistance)
+  - Application: Seed treatment 10g/kg + foliar spray 2.5 kg/ha in 500L water
+
+Bacillus thuringiensis (Bt):
+  - Controls: All Lepidopteran larvae (caterpillars)
+  - Apply early in crop stage when larvae are young (1st-2nd instar)
+  - Rate: Bt kurstaki product @ 1kg/ha; repeat every 7-10 days if needed
+
+Nuclear Polyhedrosis Virus (NPV):
+  - Helicoverpa NPV (HaNPV): 250 LE/ha for Helicoverpa on cotton, chickpea
+  - Spodoptera NPV (SlNPV): 250 LE/ha for leaf eating caterpillars on vegetables
+
+=== ORGANIC PEST MANAGEMENT ===
+1. Neem-Based Sprays: NSKE (Neem Seed Kernel Extract) 5% — most affordable
+   - Preparation: Soak 5kg neem seeds in 10L water overnight, filter, dilute to 100L
+   - Effective against: Aphids, whitefly, mites, leaf miners, small caterpillars
+   
+2. Panchagavya (5% solution): Broad-spectrum plant tonic and mild pesticide
+3. Brahmastra: Highly potent homemade herbal extract for severe infestations
+4. Jeevamrit: Soil inoculant with live microorganisms — enhances soil biology

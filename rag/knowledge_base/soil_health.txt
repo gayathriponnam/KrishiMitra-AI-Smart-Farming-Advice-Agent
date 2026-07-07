@@ -1,0 +1,112 @@
+SOIL HEALTH & FERTILITY MANAGEMENT GUIDE
+Source: ICAR-IISS, Soil Health Card Scheme, FAO Guidelines
+Last Updated: 2024
+
+=== UNDERSTANDING YOUR SOIL HEALTH CARD ===
+The Soil Health Card (SHC) provides data on 12 parameters:
+Macro-nutrients: N, P, K
+Secondary nutrients: S (Sulphur)
+Micro-nutrients: Zn (Zinc), Fe (Iron), Cu (Copper), Mn (Manganese), B (Boron)
+Physical: pH, EC (Electrical Conductivity), OC (Organic Carbon)
+
+pH Interpretation:
+  < 5.5  = Strongly Acidic — apply lime (CaCO3) @ 2-4 t/ha
+  5.5-6.0 = Moderately Acidic — slight lime application
+  6.0-7.5 = Ideal for most crops
+  7.5-8.5 = Alkaline — apply gypsum 500-1000 kg/ha; use acidifying fertilizers
+  > 8.5  = Strongly Alkaline — reclamation needed with gypsum + pyrite
+
+Organic Carbon (OC) Interpretation:
+  < 0.5%  = Low (critical) — heavy organic matter addition needed
+  0.5-0.75% = Medium — maintain with FYM/compost annually
+  > 0.75% = High — good soil health, maintain with cover crops
+
+EC (Electrical Conductivity):
+  < 0.8 dS/m = Normal (non-saline)
+  0.8-1.6 = Slightly saline — flush with good-quality water
+  > 4.0   = Severely saline — reclamation required
+
+=== SOIL TYPES OF INDIA ===
+1. ALLUVIAL SOILS (Indo-Gangetic Plains, River Deltas)
+   - Best for: Wheat, Rice, Sugarcane, Cotton, Oilseeds, Vegetables
+   - Characteristics: High fertility, varies from sandy loam to clay loam
+   - Deficiency: Zinc commonly deficient; apply ZnSO4 @ 25 kg/ha
+
+2. BLACK COTTON SOILS / REGUR (Deccan Plateau)
+   - States: Maharashtra, Madhya Pradesh, Gujarat, Telangana, Karnataka
+   - Best for: Cotton, Soybean, Sorghum, Wheat, Chickpea
+   - Characteristics: High clay content (30-80%), swells when wet, cracks when dry
+   - Deficiency: Zinc, Boron; high pH reduces phosphorus availability
+
+3. RED SOILS (Eastern Deccan, Peninsular India)
+   - States: Telangana, AP, Tamil Nadu, Karnataka, Odisha, Chhattisgarh
+   - Best for: Groundnut, Millets, Sorghum, Pulses, Tobacco
+   - Characteristics: Low fertility, good drainage, acidic to neutral
+   - Deficiency: N, P, OC, Fe, Zn — apply FYM liberally
+
+4. LATERITE SOILS (Western Ghats, Northeast India)
+   - States: Kerala, Goa, Karnataka coast, Odisha hills, Northeast
+   - Best for: Tea, Coffee, Rubber, Cashew, Areca nut, Pineapple
+   - Characteristics: Acidic (pH 5-6), iron/aluminum rich, leaches rapidly
+   - Management: Lime application; heavy mulching to retain moisture
+
+5. DESERT / ARID SOILS (Rajasthan, Gujarat)
+   - Best for: Bajra, Jowar, Cluster Bean (Guar), Sesame, Moth Bean
+   - Characteristics: Sandy, low OC, low water-holding capacity
+   - Management: Conservation tillage, drip irrigation, windbreaks
+
+=== ORGANIC MATTER MANAGEMENT ===
+Farm Yard Manure (FYM):
+  - N:P:K = 0.5:0.2:0.5% (approximate)
+  - Application: 10-15 t/ha before sowing; incorporate 2-3 weeks before
+  - Well-composted FYM is superior to fresh manure
+
+Vermicompost:
+  - N:P:K = 1.5-2.5:1.5-2.0:1.5-2.0%
+  - Application: 2-3 t/ha (more concentrated than FYM)
+  - Excellent for vegetables, fruits, nurseries
+
+Green Manure:
+  - Dhaincha (Sesbania aculeata): Fix 100-200 kg N/ha in 40-50 days
+  - Sunhemp (Crotalaria juncea): Fix 80-100 kg N/ha
+  - Incorporate at 50% flowering stage before sowing main crop
+
+Biofertilizers:
+  - Rhizobium: For all legumes (seed treatment) — 200g/10kg seed
+  - Azotobacter: For non-legumes (wheat, maize) — 200g/10kg seed  
+  - PSB (Phosphate Solubilizing Bacteria): For all crops — 200g/10kg seed
+  - Blue Green Algae (BGA): For lowland paddy — 10 kg/ha in standing water
+  - Azolla: In rice field as nitrogen supplement — fix 30-40 kg N/ha/season
+
+=== CORRECTING NUTRIENT DEFICIENCIES ===
+Nitrogen (N) Deficiency:
+  - Symptoms: Yellowing from older leaves, stunted growth, pale green color
+  - Correction: Urea (46% N) @ 5g/L foliar spray (emergency); soil application
+
+Phosphorus (P) Deficiency:
+  - Symptoms: Purple/reddish discoloration on older leaves, delayed maturity
+  - Correction: DAP (18:46:0) or SSP (16% P2O5) as basal application
+
+Potassium (K) Deficiency:
+  - Symptoms: Scorching/browning of leaf margins, weak stems, poor grain fill
+  - Correction: MOP (Muriate of Potash, 60% K2O) or SOP (for chloride-sensitive crops)
+
+Zinc (Zn) Deficiency (Most common micronutrient deficiency in India):
+  - Symptoms: Khaira disease in rice, white bud in maize, interveinal chlorosis
+  - Correction: ZnSO4 (21-33% Zn) @ 25 kg/ha soil; 0.5% ZnSO4 foliar spray
+  
+Iron (Fe) Deficiency:
+  - Symptoms: Interveinal chlorosis on young leaves (lime-induced chlorosis)
+  - Common in: Calcareous soils (high pH)
+  - Correction: FeSO4 0.5% foliar spray; apply with citric acid chelate
+
+Boron (B) Deficiency:
+  - Symptoms: Die-back of growing points, hollow stem in cauliflower, poor fruit set
+  - Correction: Borax @ 1-2 kg/ha soil; 0.2% Boric acid foliar spray
+
+=== SOIL TESTING FREQUENCY ===
+- Every 2-3 years for routine monitoring
+- Before establishing a new orchard or plantation
+- After any soil reclamation treatment
+- When crop yields drop unexpectedly
+- Contact your nearest Soil Testing Laboratory (STL) or KVK
