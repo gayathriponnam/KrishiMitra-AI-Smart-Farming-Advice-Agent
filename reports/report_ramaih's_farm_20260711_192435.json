@@ -1,0 +1,383 @@
+{
+  "report_metadata": {
+    "title": "AI Smart Farming Advisory Report — KrishiMitra",
+    "generated_at": "2026-07-11T19:24:35.492401",
+    "generated_by": "KrishiMitra AI Agent v2.0",
+    "report_id": "report_ramaih's_farm_20260711_192435"
+  },
+  "farm_profile": {
+    "profile_id": "yashwanth_20260711192337",
+    "farmer_name": "yashwanth",
+    "farm_name": "ramaih's farm",
+    "location": "",
+    "state": "Telangana",
+    "district": "warangal",
+    "village": "kila warangal",
+    "area_acres": 3,
+    "soil_type": "Loamy",
+    "irrigation_type": "Rainfed",
+    "water_source": "",
+    "current_crops": [],
+    "planned_crops": [],
+    "livestock": [],
+    "preferred_language": "te",
+    "farming_type": "Conventional",
+    "experience_years": 8,
+    "phone": "",
+    "created_at": "2026-07-11T19:23:37.548675",
+    "updated_at": "2026-07-11T19:23:37.548675"
+  },
+  "weather_summary": {
+    "location": "India",
+    "temperature": 29.0,
+    "feels_like": 27.0,
+    "humidity": 85,
+    "wind_speed": 12.0,
+    "description": "Partly Cloudy",
+    "pressure": 1013,
+    "season": "Kharif (Rainy Season) — Sow rice, maize, cotton, soybean, groundnut",
+    "forecast": [
+      {
+        "date": "Tomorrow",
+        "temp_max": 31.0,
+        "temp_min": 25.0,
+        "description": "Partly Cloudy",
+        "humidity": 85,
+        "rain": 0
+      },
+      {
+        "date": "Day after",
+        "temp_max": 30.0,
+        "temp_min": 24.0,
+        "description": "Sunny",
+        "humidity": 80,
+        "rain": 0
+      },
+      {
+        "date": "In 3 days",
+        "temp_max": 28.0,
+        "temp_min": 23.0,
+        "description": "Light Rain",
+        "humidity": 95,
+        "rain": 5
+      }
+    ],
+    "advisory": [
+      "✅ Weather conditions look favorable for field operations today."
+    ],
+    "alerts": [],
+    "source": "Demo Data (add OPENWEATHER_API_KEY for live weather)"
+  },
+  "market_prices": {
+    "prices": [
+      {
+        "crop": "Wheat",
+        "variety": "Common",
+        "market": "Azadpur (Delhi)",
+        "state": "India",
+        "min_price": 2157,
+        "max_price": 2875,
+        "modal_price": 2413,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "↑ ₹138 above MSP (+6.1%)"
+      },
+      {
+        "crop": "Wheat",
+        "variety": "Common",
+        "market": "Karnal (Haryana)",
+        "state": "India",
+        "min_price": 2180,
+        "max_price": 2906,
+        "modal_price": 2439,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "↑ ₹164 above MSP (+7.2%)"
+      },
+      {
+        "crop": "Wheat",
+        "variety": "Common",
+        "market": "Ludhiana (Punjab)",
+        "state": "India",
+        "min_price": 2199,
+        "max_price": 2932,
+        "modal_price": 2461,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "↑ ₹186 above MSP (+8.2%)"
+      },
+      {
+        "crop": "Rice (Common)",
+        "variety": "Common",
+        "market": "Azadpur (Delhi)",
+        "state": "India",
+        "min_price": 1778,
+        "max_price": 2510,
+        "modal_price": 2144,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "MSP N/A"
+      },
+      {
+        "crop": "Rice (Common)",
+        "variety": "Common",
+        "market": "Karnal (Haryana)",
+        "state": "India",
+        "min_price": 1738,
+        "max_price": 2454,
+        "modal_price": 2096,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "MSP N/A"
+      },
+      {
+        "crop": "Rice (Common)",
+        "variety": "Common",
+        "market": "Ludhiana (Punjab)",
+        "state": "India",
+        "min_price": 1708,
+        "max_price": 2411,
+        "modal_price": 2060,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "MSP N/A"
+      },
+      {
+        "crop": "Rice (Fine)",
+        "variety": "Common",
+        "market": "Azadpur (Delhi)",
+        "state": "India",
+        "min_price": 2677,
+        "max_price": 4302,
+        "modal_price": 3442,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "MSP N/A"
+      },
+      {
+        "crop": "Rice (Fine)",
+        "variety": "Common",
+        "market": "Karnal (Haryana)",
+        "state": "India",
+        "min_price": 2931,
+        "max_price": 4711,
+        "modal_price": 3768,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "MSP N/A"
+      },
+      {
+        "crop": "Rice (Fine)",
+        "variety": "Common",
+        "market": "Ludhiana (Punjab)",
+        "state": "India",
+        "min_price": 2911,
+        "max_price": 4678,
+        "modal_price": 3742,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "MSP N/A"
+      },
+      {
+        "crop": "Paddy",
+        "variety": "Common",
+        "market": "Azadpur (Delhi)",
+        "state": "India",
+        "min_price": 1917,
+        "max_price": 2450,
+        "modal_price": 2146,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "↓ ₹154 below MSP (-6.7%)"
+      },
+      {
+        "crop": "Paddy",
+        "variety": "Common",
+        "market": "Karnal (Haryana)",
+        "state": "India",
+        "min_price": 1900,
+        "max_price": 2428,
+        "modal_price": 2127,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "↓ ₹173 below MSP (-7.5%)"
+      },
+      {
+        "crop": "Paddy",
+        "variety": "Common",
+        "market": "Ludhiana (Punjab)",
+        "state": "India",
+        "min_price": 1898,
+        "max_price": 2425,
+        "modal_price": 2125,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "↓ ₹175 below MSP (-7.6%)"
+      },
+      {
+        "crop": "Cotton",
+        "variety": "Common",
+        "market": "Azadpur (Delhi)",
+        "state": "India",
+        "min_price": 5915,
+        "max_price": 7343,
+        "modal_price": 6527,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "↓ ₹594 below MSP (-8.3%)"
+      },
+      {
+        "crop": "Cotton",
+        "variety": "Common",
+        "market": "Karnal (Haryana)",
+        "state": "India",
+        "min_price": 6220,
+        "max_price": 7722,
+        "modal_price": 6864,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "↓ ₹257 below MSP (-3.6%)"
+      },
+      {
+        "crop": "Cotton",
+        "variety": "Common",
+        "market": "Ludhiana (Punjab)",
+        "state": "India",
+        "min_price": 6156,
+        "max_price": 7641,
+        "modal_price": 6792,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "↓ ₹329 below MSP (-4.6%)"
+      },
+      {
+        "crop": "Soybean",
+        "variety": "Common",
+        "market": "Azadpur (Delhi)",
+        "state": "India",
+        "min_price": 3642,
+        "max_price": 5271,
+        "modal_price": 4409,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "↓ ₹483 below MSP (-9.9%)"
+      },
+      {
+        "crop": "Soybean",
+        "variety": "Common",
+        "market": "Karnal (Haryana)",
+        "state": "India",
+        "min_price": 3873,
+        "max_price": 5606,
+        "modal_price": 4689,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "↓ ₹203 below MSP (-4.1%)"
+      },
+      {
+        "crop": "Soybean",
+        "variety": "Common",
+        "market": "Ludhiana (Punjab)",
+        "state": "India",
+        "min_price": 3678,
+        "max_price": 5323,
+        "modal_price": 4452,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "↓ ₹440 below MSP (-9.0%)"
+      },
+      {
+        "crop": "Maize",
+        "variety": "Common",
+        "market": "Azadpur (Delhi)",
+        "state": "India",
+        "min_price": 1356,
+        "max_price": 2131,
+        "modal_price": 1792,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "↓ ₹433 below MSP (-19.5%)"
+      },
+      {
+        "crop": "Maize",
+        "variety": "Common",
+        "market": "Karnal (Haryana)",
+        "state": "India",
+        "min_price": 1464,
+        "max_price": 2301,
+        "modal_price": 1935,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "↓ ₹290 below MSP (-13.0%)"
+      },
+      {
+        "crop": "Maize",
+        "variety": "Common",
+        "market": "Ludhiana (Punjab)",
+        "state": "India",
+        "min_price": 1454,
+        "max_price": 2285,
+        "modal_price": 1921,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "↓ ₹304 below MSP (-13.7%)"
+      },
+      {
+        "crop": "Onion",
+        "variety": "Common",
+        "market": "Azadpur (Delhi)",
+        "state": "India",
+        "min_price": 416,
+        "max_price": 3642,
+        "modal_price": 1249,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "MSP N/A"
+      },
+      {
+        "crop": "Onion",
+        "variety": "Common",
+        "market": "Karnal (Haryana)",
+        "state": "India",
+        "min_price": 388,
+        "max_price": 3399,
+        "modal_price": 1165,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "MSP N/A"
+      },
+      {
+        "crop": "Onion",
+        "variety": "Common",
+        "market": "Ludhiana (Punjab)",
+        "state": "India",
+        "min_price": 415,
+        "max_price": 3632,
+        "modal_price": 1245,
+        "unit": "₹/quintal",
+        "date": "11/07/2026",
+        "vs_msp": "MSP N/A"
+      }
+    ],
+    "msp_rates": {
+      "Wheat": 2275,
+      "Paddy (Common)": 2300,
+      "Paddy (Grade A)": 2320,
+      "Maize": 2225,
+      "Jowar (Hybrid)": 3371,
+      "Jowar (Maldandi)": 3421,
+      "Bajra": 2625,
+      "Ragi": 4290,
+      "Arhar (Tur)": 7550,
+      "Moong (Green Gram)": 8682
+    },
+    "source": "Demo Data (add AGMARKET_API_KEY for live prices)",
+    "last_updated": "2026-07-11 19:24",
+    "note": "Connect to Agmarknet API for real-time prices from 7,000+ mandis"
+  },
+  "recommendations": {
+    "crops": []
+  },
+  "chat_summary": [],
+  "disclaimer": "This report is generated by AI for advisory purposes only. Always consult with a certified agronomist or your local Krishi Vigyan Kendra before making major farming decisions."
+}
